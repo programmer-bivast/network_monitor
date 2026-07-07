@@ -1,0 +1,12 @@
+# Build output
+netmon
+obj/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
